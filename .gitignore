@@ -1,3 +1,5 @@
  target/
  Gatling.iml
  .idea/
+ .DS_Store
+
